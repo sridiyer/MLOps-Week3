@@ -1,5 +1,4 @@
-# MLOps3
-Dockerized Sentiment Analysis Exercise
+**Dockerized Sentiment Analysis Exercise**
 
 Running the basic healthcheck
 
