@@ -1,2 +1,6 @@
 # MLOps3
-assignments from MLops course
+Dockerized Sentiment Analysis Exercise
+
+![img1](./img/1_hc.png)
+
+test
