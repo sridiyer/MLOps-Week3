@@ -1,6 +1,6 @@
 # MLOps3
 Dockerized Sentiment Analysis Exercise
 
-![img1](./img/1_hc.png)
+![img1](./imgs/1_hc.png)
 
 test
